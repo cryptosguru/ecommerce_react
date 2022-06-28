@@ -134,7 +134,7 @@
     "fork-ts-checker-webpack-plugin": "^7.2.11",
     "html-webpack-plugin": "^4.5.2",
     "mini-css-extract-plugin": "^1.6.2",
-    "node-sass": "^6.0.0",
+    "node-sass": "^7.0.1",
     "postcss-loader": "^3.0.0",
     "prettier": "^2.7.1",
     "prop-types": "^15.8.1",
