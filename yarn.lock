@@ -1614,10 +1614,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.41.tgz#1607b2fd3da014ae5d4d1b31bc792a39348dfb9b"
   integrity sha512-xA6drNNeqb5YyV5fO3OAEsnXLfO7uF0whiOfPTz5AeDo8KeZFmODKnvwPymMNO8qE/an8pVY/O50tig2SQCrGw==
 
-"@types/nodemailer@^6.4.4":
-  version "6.4.4"
-  resolved "https://registry.yarnpkg.com/@types/nodemailer/-/nodemailer-6.4.4.tgz#c265f7e7a51df587597b3a49a023acaf0c741f4b"
-  integrity sha512-Ksw4t7iliXeYGvIQcSIgWQ5BLuC/mljIEbjf615svhZL10PE9t+ei8O9gDaD3FPCasUJn9KTLwz2JFJyiiyuqw==
+"@types/nodemailer@^6.4.5":
+  version "6.4.5"
+  resolved "https://registry.yarnpkg.com/@types/nodemailer/-/nodemailer-6.4.5.tgz#09011ac73259245475d1688e4ba101860567dc39"
+  integrity sha512-zuP3nBRQHI6M2PkXnGGy1Ww4VB+MyYHGgnfV2T+JR9KLkeWqPJuyVUgLpKXuFnA/b7pZaIDFh2sV4759B7jK1g==
   dependencies:
     "@types/node" "*"
 
@@ -6861,10 +6861,10 @@ node-sass@^6.0.0:
     stdout-stream "^1.4.0"
     "true-case-path" "^1.0.2"
 
-nodemailer@^6.7.5:
-  version "6.7.5"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.7.5.tgz#b30b1566f5fa2249f7bd49ced4c58bec6b25915e"
-  integrity sha512-6VtMpwhsrixq1HDYSBBHvW0GwiWawE75dS3oal48VqRhUvKJNnKnJo2RI/bCVQubj1vgrgscMNW4DHaD6xtMCg==
+nodemailer@^6.7.8:
+  version "6.7.8"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.7.8.tgz#9f1af9911314960c0b889079e1754e8d9e3f740a"
+  integrity sha512-2zaTFGqZixVmTxpJRCFC+Vk5eGRd/fYtvIR+dl5u9QXLTQWGIf48x/JXvo58g9sa0bU6To04XUv554Paykum3g==
 
 nopt@^5.0.0:
   version "5.0.0"
