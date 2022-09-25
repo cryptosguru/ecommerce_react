@@ -190,7 +190,3 @@ Thank you to all the people who have already contributed to cezerin2!
 ## Contributing
 
 If you can, please contribute by reporting issues, discussing ideas, or submitting pull requests with patches and new features. We do our best to respond to all issues and pull requests within a day or two, and make patch releases to npm regularly.
-
-## Licence
-
-This software is provided free of charge and without restriction under the MIT License
