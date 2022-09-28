@@ -19,18 +19,6 @@ Cezerin - Ecommerce Progressive Web Apps. Complete Solution.
 - WebPack
 - MongoDB
 
-## Links
-
-- [GitHub](https://github.com/Cezerin2)
-- [Community Site](https://cezerin.org)
-- [Demo Store - Plusha Theme](https://plusha.cezerin.net)
-- [Demo Store - Default Theme](https://cezerin.net)
-- [Demo Dashboard](https://cezerin.net/admin)
-- [Telegram Chat: Cezerin](https://t.me/cezerin)
-- [Forum](https://groups.google.com/g/cezerin)
-- [Docs](https://github.com/Cezerin2/Cezerin2/tree/main/docs)
-- [Facebook](https://facebook.com/cezerin)
-- [Twitter](https://twitter.com/cezerin2)
 
 ## Store
 
