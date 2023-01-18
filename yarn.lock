@@ -1455,13 +1455,13 @@
     magic-string "^0.25.0"
     string.prototype.matchall "^4.0.6"
 
-"@tinymce/tinymce-react@^4.1.0":
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-4.1.0.tgz#e2a5e289dc1af03837365bebe969b1a722bf6d99"
-  integrity sha512-7qXheXhyY9a8mY5tXQUz3BFq+Z4TQ7zd/OIaKasbVzojkjCw3VWdwFhHOEcwmDDprepgQwECsYqe3AGOtehfFg==
+"@tinymce/tinymce-react@^4.3.0":
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-4.3.0.tgz#5e2f5a58526a1bba9710f54f5fcf16abd4c742a1"
+  integrity sha512-iB4cUsYfcJL4NGuKhqCGYuTmFTje3nPxyPv1HxprTsp/YMGuuiiSNWrv3zwI31QX5Cn8qeq9MrMDnbxuRugHyg==
   dependencies:
     prop-types "^15.6.2"
-    tinymce "^6.0.0 || ^5.5.1"
+    tinymce "^6.3.1"
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.8"
@@ -9454,10 +9454,10 @@ tiny-warning@^1.0.0, tiny-warning@^1.0.3:
   resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.3.tgz#94a30db453df4c643d0fd566060d60a875d84754"
   integrity sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==
 
-"tinymce@^6.0.0 || ^5.5.1":
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-6.0.1.tgz#ec832632e398661507cc51b2a7574d17655fb9c8"
-  integrity sha512-+y3Lhm65GFs87gUfKuSWm2JA6ULHCC29trof4umIk2+TT+ql2poSsqsmRCSPN4elEo4EssIgEPFVRyPvrS/pDg==
+tinymce@^6.3.1:
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-6.3.1.tgz#cc5cf2b9f702d429cf5d1d21ed62245d768bfc4f"
+  integrity sha512-+oCwXuTxAdJXVJ0130OxQz0JDNsqg3deuzgeUo8X5Vb27EzCJgXwO5eWvCxvkxpQo4oiHMVlM4tUIpTUHufHGQ==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
